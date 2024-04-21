@@ -1,0 +1,18 @@
+body{
+    background: #292929;
+}
+
+.hotel{
+    display: flex;
+    width:  98vw;
+    height: 97.5vh;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    width: 300px;
+    height: 150px;
+    font-size: 22pt;
+    font-weight: 900;
+    border-radius: 50px;
+}

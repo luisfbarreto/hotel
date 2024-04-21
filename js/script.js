@@ -1,4 +1,4 @@
-
+function hotel(){
 alert('Bem vindo ao Hotel Vinland') ;  
 hospede = [];
 let usuarioNome = prompt('Informe seu nome:');
@@ -338,4 +338,5 @@ function manutencaoAr(){
 }
 function sair(){
     window.close();
+}
 }
